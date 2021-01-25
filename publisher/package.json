@@ -1,0 +1,17 @@
+{
+  "name": "redis-streams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "main": "index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ioredis": "^4.19.4",
+    "prompt": "^1.0.0",
+    "redis": "^3.0.2"
+  }
+}
